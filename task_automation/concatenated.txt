@@ -1,0 +1,3 @@
+Content for file1.txt
+Content for file2.txt
+Content for file3.txt
